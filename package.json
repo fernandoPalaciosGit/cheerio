@@ -2,10 +2,6 @@
   "name": "substance-cheerio",
   "version": "0.1.1",
   "description": "Custom cheerio bundle for substance.",
-  "main": "dist/cheerio.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "Oliver Buchtala",
     "email": "oliver.buchtala@gmail.com",
